@@ -1,13 +1,13 @@
---Readme document for *author(s)*, *email(s)*, *UCI id(s)*--
+--Readme document for Yihao Huang and Nick Turpitka; yihaoh4@uci.edu and mturpitk@uci.edu; 50276606 - Yihao, 29646758 - Nick--
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-*/10
-- */1 Communicating with the webserver
-- */1 Populating information about the user
-- */3 Populating the search component
-- */2 Artist page
-- */1.5 Album page
+8.5/10
+- 1/1 Communicating with the webserver
+- 1/1 Populating information about the user
+- 3/3 Populating the search component
+- 2/2 Artist page
+- 1.5/1.5 Album page
 - */1.5 Track page
 
 
